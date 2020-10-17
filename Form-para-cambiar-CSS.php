@@ -3,7 +3,7 @@
 <html lang="es" >
 	<head>
     <meta charset="utf-8 sin bom" />
-    <title>Cambiando el CSS con Cookies</title>
+    <title>Cambiando el CSS con  Cookies</title>
 	</head>
 
 	<body>
@@ -16,7 +16,7 @@
        	<option value="grey">Gris</option>
        	<option value="yellow">Amarillo</option>
 <<<<<<< HEAD
-        <option value="pink">Rosa</option>
+        <option value="pink">Rosado</option>
 =======
         <option value="green">Verde</option>
 >>>>>>> form-para-cambiar-css
