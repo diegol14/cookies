@@ -15,7 +15,11 @@
        	<option value="red">Rojo</option>
        	<option value="grey">Gris</option>
        	<option value="yellow">Amarillo</option>
+<<<<<<< HEAD
         <option value="pink">Rosa</option>
+=======
+        <option value="green">Verde</option>
+>>>>>>> form-para-cambiar-css
        </select>
        
        
