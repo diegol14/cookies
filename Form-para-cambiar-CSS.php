@@ -15,6 +15,7 @@
        	<option value="red">Rojo</option>
        	<option value="grey">Gris</option>
        	<option value="yellow">Amarillo</option>
+        <option value="pink">Rosa</option>
        </select>
        
        
